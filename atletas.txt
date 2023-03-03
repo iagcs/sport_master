@@ -1,0 +1,2 @@
+Arthur,20,1.76,63.0,Futebol,Lateral,Direita,true,Atletico,Decricao false,9.0,admin#teste@iago#muito bom
+Pedro,20,1.76,63.0,Futebol,Ponta,Esquerda,false,Cruzeiro,Decricao false,8.0,admin#teste
